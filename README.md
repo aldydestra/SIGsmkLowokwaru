@@ -20,3 +20,6 @@ git clone https://github.com/aldydestra/SIGsmkLowokwaru
 | Delete data SMK                                                | ✔ |
 | Panel Admin                                              | ✔ |
 | Menampilkan Peta Sebaran                                              | ✔ |
+
+Terbuka untuk pengembangan lebih lanjut.
+Sertakan Repository ini sebagai referensi :)
