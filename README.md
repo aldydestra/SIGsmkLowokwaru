@@ -22,4 +22,5 @@ git clone https://github.com/aldydestra/SIGsmkLowokwaru
 | Menampilkan Peta Sebaran                                              | ✔ |
 
 Terbuka untuk pengembangan lebih lanjut.
-Sertakan Repository ini sebagai referensi :)
+
+Sertakan `Repository ini` sebagai referensi :)
