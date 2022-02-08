@@ -23,4 +23,4 @@ git clone https://github.com/aldydestra/SIGsmkLowokwaru
 
 Terbuka untuk pengembangan lebih lanjut.
 
-Sertakan `Repository ini` sebagai referensi :)
+Sertakan `SIGsmkLowokwaru` sebagai referensi :)
