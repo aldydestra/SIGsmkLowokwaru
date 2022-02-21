@@ -14,7 +14,7 @@ git clone https://github.com/aldydestra/SIGsmkLowokwaru
 
 # Fitur SIGsmkLowokwaru ##
 
-|                                                               |   |
+| Uraian                                                              | Ketersediaan  |
 |---------------------------------------------------------------|---|
 | Create data SMK                                               | ✔ |
 | Read data SMK                                            | ✔ |
