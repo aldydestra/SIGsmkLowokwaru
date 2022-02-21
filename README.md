@@ -1,6 +1,6 @@
-Sistem Informasi Sebaran SMK di lowokwaru Kota Malang
+## SIGsmkLowokwaru
 
-Aplikasi Web yang dikembangkan menggunakan PHP sebagai dasar. Bertujuan untuk memudahkan Pencarian informasi mengenai Sekolah Menengah Kejuruan Di Kecamatan Lowokwaru, Kota Malang.
+Aplikasi Web yang dikembangkan menggunakan PHP sebagai dasar. Bertujuan untuk memudahkan Pencarian informasi mengenai Sekolah Menengah Kejuruan dengan menampilkan Sistem Informasi Sebaran SMK di lowokwaru Kota Malang
 
 ## Instalasi ##
 
