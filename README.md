@@ -1,6 +1,6 @@
 Sistem Informasi Sebaran SMK di lowokwaru Kota Malang
 
-## Instalasi
+## Instalasi ##
 
 1. Pertama, clone atau download repository ini:
 ```bash
@@ -10,7 +10,7 @@ git clone https://github.com/aldydestra/SIGsmkLowokwaru
 3. Import database ke `phpmyadmin`,
 4. Selesai.
 
-# Fungsi SIGsmkLowokwaru
+# Fitur SIGsmkLowokwaru ##
 
 |                                                               |   |
 |---------------------------------------------------------------|---|
