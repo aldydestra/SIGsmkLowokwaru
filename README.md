@@ -16,12 +16,9 @@ git clone https://github.com/aldydestra/SIGsmkLowokwaru
 
 | Uraian                                                              | Ket. |
 |---------------------------------------------------------------|---|
-| Create data SMK                                               | ✔ |
-| Read data SMK                                            | ✔ |
-| Update data SMKAdmin Panel                                                  | ✔ |
-| Delete data SMK                                                | ✔ |
+| CRUD                                               | ✔ |
 | Panel Admin                                              | ✔ |
-| Menampilkan Peta Sebaran                                              | ✔ |
+| Peta Sebaran                                              | ✔ |
 
 Terbuka untuk pengembangan lebih lanjut.
 
